@@ -1,0 +1,2 @@
+this is  blog with admin panne if admin i wanna give inside  database admin true it default false. and this inlud user see the post 
+if he wannat to give the feedback for the athore he wanna signup and athuor can  edit and delete see the feedback . one login role base access 

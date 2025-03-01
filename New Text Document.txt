@@ -1,0 +1,1 @@
+This system includes role-based access where students can sign up, log in with Google, and set up their profiles. Admins can view and edit student profiles, and manage students through a main dashboard that displays student data in a table format.
